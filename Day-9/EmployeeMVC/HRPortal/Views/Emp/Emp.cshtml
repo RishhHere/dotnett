@@ -1,0 +1,33 @@
+@using HRPortal.Models;
+
+@{
+    ViewData["Title"] = "EMP Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employee Data</h1>
+    @{
+        List<Employee> emp = ViewData["emp"] as List<Employee>;
+        foreach(Employee e in emp) {
+            <p> @e.eid  @e.ename  @e.job </p> <a href="">Edit </a> <a href=""> Details</a>
+        }
+    }
+
+    @* <table>
+        @foreach(var emp in Model)
+        {
+             <tr> 
+         <td>@employee.Name</td> 
+         
+         <td> 
+           
+            <a href="/employees/Details/@emp.ename">Details</a>
+             <a href="/employees/Edit/@emp.empno">Edit</a>
+
+         </td> 
+      </tr> 
+        }
+    </table> *@
+
+
+</div>

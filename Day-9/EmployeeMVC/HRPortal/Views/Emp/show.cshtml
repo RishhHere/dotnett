@@ -1,0 +1,15 @@
+@{
+        ViewData["Title"] = "List Page";
+}
+@{
+    List<Employee> emp = ViewData["emp"] as List<Employee>;
+        foreach(Employee e in emp){
+             <p> @e.eid  @e.ename  @e.job</p> 
+        }
+    
+   
+}
+
+    
+
+       

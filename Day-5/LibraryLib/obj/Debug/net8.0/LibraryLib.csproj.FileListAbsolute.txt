@@ -1,0 +1,11 @@
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\bin\Debug\net8.0\LibraryLib.deps.json
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\bin\Debug\net8.0\LibraryLib.dll
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\bin\Debug\net8.0\LibraryLib.pdb
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\LibraryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\LibraryLib.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\LibraryLib.AssemblyInfo.cs
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\LibraryLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\LibraryLib.dll
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\refint\LibraryLib.dll
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\LibraryLib.pdb
+C:\Users\IET\Documents\.net\Day-5\LibraryLib\obj\Debug\net8.0\ref\LibraryLib.dll

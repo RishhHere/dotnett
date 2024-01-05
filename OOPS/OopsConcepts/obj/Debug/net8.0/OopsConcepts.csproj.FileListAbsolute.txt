@@ -1,0 +1,14 @@
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.AssemblyInfo.cs
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\bin\Debug\net8.0\OopsConcepts.exe
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\bin\Debug\net8.0\OopsConcepts.deps.json
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\bin\Debug\net8.0\OopsConcepts.runtimeconfig.json
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\bin\Debug\net8.0\OopsConcepts.dll
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\bin\Debug\net8.0\OopsConcepts.pdb
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.dll
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\refint\OopsConcepts.dll
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.pdb
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\OopsConcepts.genruntimeconfig.cache
+C:\Users\IET\Documents\.net\OOPS\OopsConcepts\obj\Debug\net8.0\ref\OopsConcepts.dll

@@ -1,0 +1,18 @@
+@using BOL;
+@using System.Collections.Generic;
+@using ProductApp.Models;
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Products List</h1>
+    @{
+        List<Product> allProducts= this.ViewData["products"] as List<Product>;
+        foreach(Product pr in allProducts) 
+        {
+            <p>@pr.pid @pr.title @pr.unitPrice</p>
+        }
+    }
+</div>

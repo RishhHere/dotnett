@@ -1,0 +1,46 @@
+@using MVCRUD.Controllers;
+@using BOL;
+
+@{
+    ViewData["Title"]="List";
+}
+
+<div>
+    
+    @{
+        List<User> user = ViewData["uli"] as List<User>;   
+        <table class="table table-dark">
+        <thead>
+        <tr>
+            <th scope="col">UserName</th>
+            <th scope="col">Password</th>
+            <th scope="col">Email</th>
+        </tr>
+        </thead>
+        @foreach(var u in user)
+        { 
+            
+             <tbody>
+             <tr>
+                <td>@u.username</td>
+                <td>@u.password </td>
+                <td>@u.email</td>
+             </tr>
+         </tbody>
+    }
+    </table>
+    }
+
+    @* <a class="btn btn-primary" href="" role="button">Link</a> *@
+    @* <button class="btn btn-primary" type="submit">Button</button> *@
+    
+    @* https://stackoverflow.com/questions/3168577/how-do-i-redirect-a-user-when-a-button-is-clicked *@
+   @* Redirecting to another page on button click 
+        input type = button class = style value = button name 
+        
+        onclick = "window.location = '@Url.Action("Page/Action", "Controller Name")'"/>*@
+    <input type="button" class="btn btn-primary" value="Insert" onclick="window.location= '@Url.Action("Insert", "User")'" />
+    <input class="btn btn-primary" type="submit" value="Edit">
+    <input type="button" class="btn btn-primary" value="Delete" onclick="window.location= '@Url.Action("Delete", "User")'" />
+    <input class="btn btn-primary" type="submit" value="Update">
+</div>

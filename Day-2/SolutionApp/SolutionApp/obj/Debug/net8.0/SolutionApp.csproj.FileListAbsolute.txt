@@ -1,0 +1,15 @@
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.AssemblyInfoInputs.cache
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.AssemblyInfo.cs
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.csproj.CoreCompileInputs.cache
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.sourcelink.json
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/bin/Debug/net8.0/SolutionApp
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/bin/Debug/net8.0/SolutionApp.deps.json
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/bin/Debug/net8.0/SolutionApp.runtimeconfig.json
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/bin/Debug/net8.0/SolutionApp.dll
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/bin/Debug/net8.0/SolutionApp.pdb
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.dll
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/refint/SolutionApp.dll
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.pdb
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/SolutionApp.genruntimeconfig.cache
+/Users/rishh/Documents/CDAC/GIT/dotnett/Day-2/SolutionApp/SolutionApp/obj/Debug/net8.0/ref/SolutionApp.dll

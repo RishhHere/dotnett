@@ -1,0 +1,21 @@
+<form method="post">
+  <div class="form-group">
+    <label for="exampleInputEmail1">Username</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter username" name="user">
+  </div>
+  <br>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="pass">
+  </div>
+  <br>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Email</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Email" name="email">
+  <br>
+  </div>
+  <br>
+  <button type="submit" class="btn btn-primary" name="insert">Insert</button>
+  @* <button type="submit" class="btn btn-primary" name="InsertData">Insert Data</button> *@
+  @* <input type="button" class="btn btn-primary" value="Insert" onclick="window.location= '@Url.Action( "Insert", "User")'" /> *@
+  </form>

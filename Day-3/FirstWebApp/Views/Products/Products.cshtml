@@ -1,0 +1,15 @@
+@using Catalogue;
+@{ 
+    Product p1 = ViewData["flower"] as Product;
+}
+
+<div class = "text-center">
+    <h4 class = "display-4"> Welcome to Chitra's Favourite Flower Store </h4>
+    <p>
+        <img src="@p1.imgurl" alt="" height="100" width="200">
+        <hr/>
+        Title: @p1.title
+        <br>
+        Quantity : @p1.quantity
+    </p>
+</div>

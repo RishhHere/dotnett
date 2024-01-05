@@ -1,0 +1,12 @@
+ @{
+        ViewData["Title"] = "List Page";
+    }
+   
+ @{
+        List<Employee> emp = ViewData["emp"] as List<Employee>;
+        foreach(var e in emp) {
+           <p @e.eid @e.ename @e.job></p><a href= "/Emp/show/@e.eid">Details</a>
+            @* <p> @e.eid  @e.ename  @e.job </p> <a href="">Edit </a> <a href=""> Details</a> *@
+        }
+
+    }
